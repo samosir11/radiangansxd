@@ -103,7 +103,7 @@ def pilih():
   else:
     exit('  RadianGantengEa')
  
-pilih() if __name__ == '__main__' else exit('Maaf Bro Ada Yang Eror, Kek Nya Lu Belum coli ya.')
+pilih() if __R-gd__ == '__main__' else exit('Maaf Bro Ada Yang Eror, Kek Nya Lu Belum coli ya.')
 © 2020 GitHub, Inc.
 Terms
 Privacy
